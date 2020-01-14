@@ -4,4 +4,5 @@ Movement: W, A, S, D.
 Shoot: LMB.
 View: Mouse.
 Fog enable/disable: F.
-Texture blending: B.
+Enable/disable texture blending: B.
+Fix/free camera: C.
